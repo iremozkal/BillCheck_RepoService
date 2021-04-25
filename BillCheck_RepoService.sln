@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillCheck_RepoService.BLL", "BillCheck_RepoService.BLL\BillCheck_RepoService.BLL.csproj", "{8E455598-C2A3-427D-8C69-749D3A55EACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillCheck_RepoService.DAL", "BillCheck_RepoService.DAL\BillCheck_RepoService.DAL.csproj", "{7D177D3E-60A6-495F-88A7-619BC0D8332B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillCheck_RepoService.DATA", "BillCheck_RepoService.DATA\BillCheck_RepoService.DATA.csproj", "{CD69C42A-D9E4-4819-BFF4-3FE7C6A59D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillCheck_RepoService.UI", "BillCheck_RepoService.UI\BillCheck_RepoService.UI.csproj", "{66724FD8-CC2A-4DA1-B9B9-0C758A614767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E455598-C2A3-427D-8C69-749D3A55EACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E455598-C2A3-427D-8C69-749D3A55EACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E455598-C2A3-427D-8C69-749D3A55EACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E455598-C2A3-427D-8C69-749D3A55EACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D177D3E-60A6-495F-88A7-619BC0D8332B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D177D3E-60A6-495F-88A7-619BC0D8332B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D177D3E-60A6-495F-88A7-619BC0D8332B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D177D3E-60A6-495F-88A7-619BC0D8332B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD69C42A-D9E4-4819-BFF4-3FE7C6A59D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD69C42A-D9E4-4819-BFF4-3FE7C6A59D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD69C42A-D9E4-4819-BFF4-3FE7C6A59D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD69C42A-D9E4-4819-BFF4-3FE7C6A59D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66724FD8-CC2A-4DA1-B9B9-0C758A614767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66724FD8-CC2A-4DA1-B9B9-0C758A614767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66724FD8-CC2A-4DA1-B9B9-0C758A614767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66724FD8-CC2A-4DA1-B9B9-0C758A614767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
